@@ -114,7 +114,7 @@
     "moment": "~2.19.0",
     "moment-timezone": "~0.5.21",
     "mongodb": "^2.0.28",
-    "mongoose": "^4.5.3",
+    "mongoose": "^5.9.4",
     "mongoose-cache": "nwinter/mongoose-cache#master",
     "morgan": "^1.7.0",
     "mysql": "^2.11.1",
