@@ -181,7 +181,7 @@
     "recursive-readdir-sync": "^1.0.6",
     "requirejs": "~2.1.10",
     "sass-loader": "^6.0.6",
-    "webpack-bundle-analyzer": "^2.9.0",
+    "webpack-bundle-analyzer": "^3.6.1",
     "webpack-livereload-plugin": "https://github.com/codecombat/webpack-livereload-plugin/tarball/master"
   },
   "optionalDependencies": {
