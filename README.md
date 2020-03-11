@@ -10,7 +10,7 @@ Ubuntu 18.04 64Bit Desktop or Server
     mkdir /coco/data/log
 
     cd /coco
-    wget http://nodejs.org/dist/v8.15.1/node-v6.12.2.tar.gz 
+    wget http://nodejs.org/dist/v6.12.2/node-v6.12.2.tar.gz 
     tar xfz node-v6.12.2.tar.gz 
     cd node-v6.12.2
     ./configure 
